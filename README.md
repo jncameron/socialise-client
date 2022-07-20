@@ -1,3 +1,22 @@
+#
+Socialise
+
+##
+A simple client application demo. Consumes ASP.NET Core WebApi from [Socialise](https://github.com/jncameron/Socialise) 
+When completed, an authenticated user will be able to
+-Log in 
+-View social activities
+-Add an activity
+-Join an activity
+-Edit an activity (if created )
+
+##
+Libraries and Languages used:
+React
+React Router
+Mobx
+Typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
