@@ -2,13 +2,15 @@
 Socialise
 
 ##
-A simple client application demo. Consumes ASP.NET Core WebApi from [Socialise](https://github.com/jncameron/Socialise) 
+A simple client application demo. Consumes ASP.NET Core WebApi from the [Socialise](https://github.com/jncameron/Socialise) repository.
 When completed, an authenticated user will be able to
--Log in 
--View social activities
--Add an activity
--Join an activity
--Edit an activity (if created )
+- Log in 
+- View a list of social activities
+- Add an activity
+- Join an activity
+- Edit an activity (if created by the same user)
+- Delete an activity
+- Sort and Filter sctivities
 
 ##
 Libraries and Languages used:
